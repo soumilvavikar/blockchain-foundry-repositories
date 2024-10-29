@@ -1,0 +1,30 @@
+[submodule "foundry-dao-example"]
+	path = foundry-dao-example
+	url = https://github.com/soumilvavikar/foundry-dao-example
+[submodule "foundry-upgradeable-smart-contracts"]
+	path = foundry-upgradeable-smart-contracts
+	url = https://github.com/soumilvavikar/foundry-upgradeable-smart-contracts
+[submodule "foundry-defi-stablecoin"]
+	path = foundry-defi-stablecoin
+	url = https://github.com/soumilvavikar/foundry-defi-stablecoin
+[submodule "foundry-nft-example"]
+	path = foundry-nft-example
+	url = https://github.com/soumilvavikar/foundry-nft-example
+[submodule "foundry-erc20-example"]
+	path = foundry-erc20-example
+	url = https://github.com/soumilvavikar/foundry-erc20-example
+[submodule "foundry-impersonate-acct-on-forked-mainnet"]
+	path = foundry-impersonate-acct-on-forked-mainnet
+	url = https://github.com/soumilvavikar/foundry-impersonate-acct-on-forked-mainnet
+[submodule "foundry-chainlink-pricefeed"]
+	path = foundry-chainlink-pricefeed
+	url = https://github.com/soumilvavikar/foundry-chainlink-pricefeed
+[submodule "foundry-fund-me"]
+	path = foundry-fund-me
+	url = https://github.com/soumilvavikar/foundry-fund-me
+[submodule "foundry-simple-storage"]
+	path = foundry-simple-storage
+	url = https://github.com/soumilvavikar/foundry-simple-storage
+[submodule "foundry-lottery-project"]
+	path = foundry-lottery-project
+	url = https://github.com/soumilvavikar/foundry-lottery-project
